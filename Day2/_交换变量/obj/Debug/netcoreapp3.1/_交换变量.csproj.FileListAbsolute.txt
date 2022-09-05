@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\bin\Debug\netcoreapp3.1\_交换变量.exe
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\bin\Debug\netcoreapp3.1\_交换变量.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\bin\Debug\netcoreapp3.1\_交换变量.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\bin\Debug\netcoreapp3.1\_交换变量.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\bin\Debug\netcoreapp3.1\_交换变量.dll
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\bin\Debug\netcoreapp3.1\_交换变量.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\obj\Debug\netcoreapp3.1\_交换变量.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\obj\Debug\netcoreapp3.1\_交换变量.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\obj\Debug\netcoreapp3.1\_交换变量.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\obj\Debug\netcoreapp3.1\_交换变量.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\obj\Debug\netcoreapp3.1\_交换变量.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\obj\Debug\netcoreapp3.1\_交换变量.dll
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\obj\Debug\netcoreapp3.1\_交换变量.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day2\_交换变量\obj\Debug\netcoreapp3.1\_交换变量.genruntimeconfig.cache

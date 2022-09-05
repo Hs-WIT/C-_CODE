@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\bin\Debug\netcoreapp3.1\02.My Second Demo.exe
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\bin\Debug\netcoreapp3.1\02.My Second Demo.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\bin\Debug\netcoreapp3.1\02.My Second Demo.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\bin\Debug\netcoreapp3.1\02.My Second Demo.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\bin\Debug\netcoreapp3.1\02.My Second Demo.dll
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\bin\Debug\netcoreapp3.1\02.My Second Demo.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\obj\Debug\netcoreapp3.1\02.My Second Demo.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\obj\Debug\netcoreapp3.1\02.My Second Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\obj\Debug\netcoreapp3.1\02.My Second Demo.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\obj\Debug\netcoreapp3.1\02.My Second Demo.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\obj\Debug\netcoreapp3.1\02.My Second Demo.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\obj\Debug\netcoreapp3.1\02.My Second Demo.dll
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\obj\Debug\netcoreapp3.1\02.My Second Demo.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day1\02.My Second Demo\obj\Debug\netcoreapp3.1\02.My Second Demo.genruntimeconfig.cache

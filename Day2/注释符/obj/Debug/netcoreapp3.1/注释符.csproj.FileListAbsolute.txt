@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\bin\Debug\netcoreapp3.1\注释符.exe
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\bin\Debug\netcoreapp3.1\注释符.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\bin\Debug\netcoreapp3.1\注释符.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\bin\Debug\netcoreapp3.1\注释符.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\bin\Debug\netcoreapp3.1\注释符.dll
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\bin\Debug\netcoreapp3.1\注释符.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\obj\Debug\netcoreapp3.1\注释符.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\obj\Debug\netcoreapp3.1\注释符.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\obj\Debug\netcoreapp3.1\注释符.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\obj\Debug\netcoreapp3.1\注释符.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\obj\Debug\netcoreapp3.1\注释符.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\obj\Debug\netcoreapp3.1\注释符.dll
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\obj\Debug\netcoreapp3.1\注释符.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day2\注释符\obj\Debug\netcoreapp3.1\注释符.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\obj\Debug\netcoreapp3.1\_接收用户的输入.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\obj\Debug\netcoreapp3.1\_接收用户的输入.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\obj\Debug\netcoreapp3.1\_接收用户的输入.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\obj\Debug\netcoreapp3.1\_接收用户的输入.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\bin\Debug\netcoreapp3.1\_接收用户的输入.exe
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\bin\Debug\netcoreapp3.1\_接收用户的输入.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\bin\Debug\netcoreapp3.1\_接收用户的输入.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\bin\Debug\netcoreapp3.1\_接收用户的输入.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\bin\Debug\netcoreapp3.1\_接收用户的输入.dll
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\bin\Debug\netcoreapp3.1\_接收用户的输入.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\obj\Debug\netcoreapp3.1\_接收用户的输入.dll
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\obj\Debug\netcoreapp3.1\_接收用户的输入.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day2\_接收用户的输入\obj\Debug\netcoreapp3.1\_接收用户的输入.genruntimeconfig.cache

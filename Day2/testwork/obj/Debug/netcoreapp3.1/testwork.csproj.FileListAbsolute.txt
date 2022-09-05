@@ -1,0 +1,13 @@
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\bin\Debug\netcoreapp3.1\testwork.exe
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\bin\Debug\netcoreapp3.1\testwork.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\bin\Debug\netcoreapp3.1\testwork.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\bin\Debug\netcoreapp3.1\testwork.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\bin\Debug\netcoreapp3.1\testwork.dll
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\bin\Debug\netcoreapp3.1\testwork.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\obj\Debug\netcoreapp3.1\testwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\obj\Debug\netcoreapp3.1\testwork.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\obj\Debug\netcoreapp3.1\testwork.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\obj\Debug\netcoreapp3.1\testwork.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\obj\Debug\netcoreapp3.1\testwork.dll
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\obj\Debug\netcoreapp3.1\testwork.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day2\testwork\obj\Debug\netcoreapp3.1\testwork.genruntimeconfig.cache
