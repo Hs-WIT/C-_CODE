@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "异常捕获", "异常捕获\异常捕获.csproj", "{A75EEA84-0F24-4A11-B0CB-D248981BF3FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch_case", "switch_case\switch_case.csproj", "{F339126B-B042-4F65-A722-EAA1CD34BEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_判断闰年", "_判断闰年\_判断闰年.csproj", "{FCA35E49-2F50-4270-86D0-5FBBCFD40FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "循环体", "循环体\循环体.csproj", "{FC765372-79CA-422C-AE1E-3739D3CB208E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75EEA84-0F24-4A11-B0CB-D248981BF3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75EEA84-0F24-4A11-B0CB-D248981BF3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75EEA84-0F24-4A11-B0CB-D248981BF3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75EEA84-0F24-4A11-B0CB-D248981BF3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F339126B-B042-4F65-A722-EAA1CD34BEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F339126B-B042-4F65-A722-EAA1CD34BEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F339126B-B042-4F65-A722-EAA1CD34BEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F339126B-B042-4F65-A722-EAA1CD34BEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA35E49-2F50-4270-86D0-5FBBCFD40FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA35E49-2F50-4270-86D0-5FBBCFD40FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA35E49-2F50-4270-86D0-5FBBCFD40FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA35E49-2F50-4270-86D0-5FBBCFD40FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC765372-79CA-422C-AE1E-3739D3CB208E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC765372-79CA-422C-AE1E-3739D3CB208E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC765372-79CA-422C-AE1E-3739D3CB208E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC765372-79CA-422C-AE1E-3739D3CB208E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17FD9717-4463-498B-B0E7-F5DCA39A6827}
+	EndGlobalSection
+EndGlobal

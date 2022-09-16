@@ -1,0 +1,13 @@
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\bin\Debug\netcoreapp3.1\_ref参数.exe
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\bin\Debug\netcoreapp3.1\_ref参数.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\bin\Debug\netcoreapp3.1\_ref参数.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\bin\Debug\netcoreapp3.1\_ref参数.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\bin\Debug\netcoreapp3.1\_ref参数.dll
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\bin\Debug\netcoreapp3.1\_ref参数.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\obj\Debug\netcoreapp3.1\_ref参数.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\obj\Debug\netcoreapp3.1\_ref参数.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\obj\Debug\netcoreapp3.1\_ref参数.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\obj\Debug\netcoreapp3.1\_ref参数.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\obj\Debug\netcoreapp3.1\_ref参数.dll
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\obj\Debug\netcoreapp3.1\_ref参数.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day7\_ref参数\obj\Debug\netcoreapp3.1\_ref参数.genruntimeconfig.cache

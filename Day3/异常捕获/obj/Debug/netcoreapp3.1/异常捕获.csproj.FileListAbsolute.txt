@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\bin\Debug\netcoreapp3.1\异常捕获.exe
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\bin\Debug\netcoreapp3.1\异常捕获.deps.json
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\bin\Debug\netcoreapp3.1\异常捕获.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\bin\Debug\netcoreapp3.1\异常捕获.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\bin\Debug\netcoreapp3.1\异常捕获.dll
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\bin\Debug\netcoreapp3.1\异常捕获.pdb
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\obj\Debug\netcoreapp3.1\异常捕获.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\obj\Debug\netcoreapp3.1\异常捕获.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\obj\Debug\netcoreapp3.1\异常捕获.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\obj\Debug\netcoreapp3.1\异常捕获.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\obj\Debug\netcoreapp3.1\异常捕获.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\obj\Debug\netcoreapp3.1\异常捕获.dll
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\obj\Debug\netcoreapp3.1\异常捕获.pdb
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\异常捕获\obj\Debug\netcoreapp3.1\异常捕获.genruntimeconfig.cache

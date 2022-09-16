@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\bin\Debug\netcoreapp3.1\练习.exe
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\bin\Debug\netcoreapp3.1\练习.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\bin\Debug\netcoreapp3.1\练习.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\bin\Debug\netcoreapp3.1\练习.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\bin\Debug\netcoreapp3.1\练习.dll
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\bin\Debug\netcoreapp3.1\练习.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\obj\Debug\netcoreapp3.1\练习.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\obj\Debug\netcoreapp3.1\练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\obj\Debug\netcoreapp3.1\练习.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\obj\Debug\netcoreapp3.1\练习.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\obj\Debug\netcoreapp3.1\练习.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\obj\Debug\netcoreapp3.1\练习.dll
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\obj\Debug\netcoreapp3.1\练习.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day5\练习\obj\Debug\netcoreapp3.1\练习.genruntimeconfig.cache

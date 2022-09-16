@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\bin\Debug\netcoreapp3.1\_冒泡排序.exe
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\bin\Debug\netcoreapp3.1\_冒泡排序.deps.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\bin\Debug\netcoreapp3.1\_冒泡排序.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\bin\Debug\netcoreapp3.1\_冒泡排序.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\bin\Debug\netcoreapp3.1\_冒泡排序.dll
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\bin\Debug\netcoreapp3.1\_冒泡排序.pdb
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\obj\Debug\netcoreapp3.1\_冒泡排序.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\obj\Debug\netcoreapp3.1\_冒泡排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\obj\Debug\netcoreapp3.1\_冒泡排序.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\obj\Debug\netcoreapp3.1\_冒泡排序.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\obj\Debug\netcoreapp3.1\_冒泡排序.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\obj\Debug\netcoreapp3.1\_冒泡排序.dll
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\obj\Debug\netcoreapp3.1\_冒泡排序.pdb
+D:\Users\ahuang\Desktop\C#_Code\数组\_冒泡排序\obj\Debug\netcoreapp3.1\_冒泡排序.genruntimeconfig.cache

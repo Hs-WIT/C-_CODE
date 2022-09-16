@@ -1,0 +1,13 @@
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\bin\Debug\netcoreapp3.1\switch_case.exe
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\bin\Debug\netcoreapp3.1\switch_case.deps.json
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\bin\Debug\netcoreapp3.1\switch_case.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\bin\Debug\netcoreapp3.1\switch_case.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\bin\Debug\netcoreapp3.1\switch_case.dll
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\bin\Debug\netcoreapp3.1\switch_case.pdb
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\obj\Debug\netcoreapp3.1\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\obj\Debug\netcoreapp3.1\switch_case.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\obj\Debug\netcoreapp3.1\switch_case.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\obj\Debug\netcoreapp3.1\switch_case.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\obj\Debug\netcoreapp3.1\switch_case.dll
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\obj\Debug\netcoreapp3.1\switch_case.pdb
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\switch_case\obj\Debug\netcoreapp3.1\switch_case.genruntimeconfig.cache

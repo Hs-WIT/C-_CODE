@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\bin\Debug\netcoreapp3.1\_数组练习.exe
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\bin\Debug\netcoreapp3.1\_数组练习.deps.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\bin\Debug\netcoreapp3.1\_数组练习.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\bin\Debug\netcoreapp3.1\_数组练习.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\bin\Debug\netcoreapp3.1\_数组练习.dll
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\bin\Debug\netcoreapp3.1\_数组练习.pdb
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\obj\Debug\netcoreapp3.1\_数组练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\obj\Debug\netcoreapp3.1\_数组练习.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\obj\Debug\netcoreapp3.1\_数组练习.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\obj\Debug\netcoreapp3.1\_数组练习.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\obj\Debug\netcoreapp3.1\_数组练习.dll
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\obj\Debug\netcoreapp3.1\_数组练习.pdb
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\obj\Debug\netcoreapp3.1\_数组练习.genruntimeconfig.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组练习\obj\Debug\netcoreapp3.1\_数组练习.csproj.AssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_方法的递归/1.0.0": {
+        "runtime": {
+          "_方法的递归.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_方法的递归/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
