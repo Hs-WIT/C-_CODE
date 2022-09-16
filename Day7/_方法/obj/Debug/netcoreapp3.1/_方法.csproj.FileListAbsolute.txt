@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\bin\Debug\netcoreapp3.1\_方法.exe
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\bin\Debug\netcoreapp3.1\_方法.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\bin\Debug\netcoreapp3.1\_方法.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\bin\Debug\netcoreapp3.1\_方法.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\bin\Debug\netcoreapp3.1\_方法.dll
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\bin\Debug\netcoreapp3.1\_方法.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\obj\Debug\netcoreapp3.1\_方法.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\obj\Debug\netcoreapp3.1\_方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\obj\Debug\netcoreapp3.1\_方法.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\obj\Debug\netcoreapp3.1\_方法.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\obj\Debug\netcoreapp3.1\_方法.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\obj\Debug\netcoreapp3.1\_方法.dll
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\obj\Debug\netcoreapp3.1\_方法.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day7\_方法\obj\Debug\netcoreapp3.1\_方法.genruntimeconfig.cache

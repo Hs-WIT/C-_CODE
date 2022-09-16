@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_判断闰年/1.0.0": {
+        "runtime": {
+          "_判断闰年.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_判断闰年/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

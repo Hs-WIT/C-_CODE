@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\bin\Debug\netcoreapp3.1\循环体.exe
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\bin\Debug\netcoreapp3.1\循环体.deps.json
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\bin\Debug\netcoreapp3.1\循环体.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\bin\Debug\netcoreapp3.1\循环体.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\bin\Debug\netcoreapp3.1\循环体.dll
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\bin\Debug\netcoreapp3.1\循环体.pdb
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\obj\Debug\netcoreapp3.1\循环体.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\obj\Debug\netcoreapp3.1\循环体.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\obj\Debug\netcoreapp3.1\循环体.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\obj\Debug\netcoreapp3.1\循环体.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\obj\Debug\netcoreapp3.1\循环体.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\obj\Debug\netcoreapp3.1\循环体.dll
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\obj\Debug\netcoreapp3.1\循环体.pdb
+D:\Users\ahuang\Desktop\C#_Code\C_Sharp_Code\Day3\循环体\obj\Debug\netcoreapp3.1\循环体.genruntimeconfig.cache

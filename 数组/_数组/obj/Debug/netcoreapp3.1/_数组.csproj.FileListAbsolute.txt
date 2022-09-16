@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\bin\Debug\netcoreapp3.1\_数组.exe
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\bin\Debug\netcoreapp3.1\_数组.deps.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\bin\Debug\netcoreapp3.1\_数组.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\bin\Debug\netcoreapp3.1\_数组.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\bin\Debug\netcoreapp3.1\_数组.dll
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\bin\Debug\netcoreapp3.1\_数组.pdb
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\obj\Debug\netcoreapp3.1\_数组.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\obj\Debug\netcoreapp3.1\_数组.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\obj\Debug\netcoreapp3.1\_数组.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\obj\Debug\netcoreapp3.1\_数组.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\obj\Debug\netcoreapp3.1\_数组.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\obj\Debug\netcoreapp3.1\_数组.dll
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\obj\Debug\netcoreapp3.1\_数组.pdb
+D:\Users\ahuang\Desktop\C#_Code\数组\_数组\obj\Debug\netcoreapp3.1\_数组.genruntimeconfig.cache

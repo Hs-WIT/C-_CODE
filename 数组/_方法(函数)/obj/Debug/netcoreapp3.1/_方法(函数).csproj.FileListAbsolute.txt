@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\bin\Debug\netcoreapp3.1\_方法(函数).exe
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\bin\Debug\netcoreapp3.1\_方法(函数).deps.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\bin\Debug\netcoreapp3.1\_方法(函数).runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\bin\Debug\netcoreapp3.1\_方法(函数).runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\bin\Debug\netcoreapp3.1\_方法(函数).dll
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\bin\Debug\netcoreapp3.1\_方法(函数).pdb
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\obj\Debug\netcoreapp3.1\_方法(函数).csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\obj\Debug\netcoreapp3.1\_方法(函数).GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\obj\Debug\netcoreapp3.1\_方法(函数).AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\obj\Debug\netcoreapp3.1\_方法(函数).AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\obj\Debug\netcoreapp3.1\_方法(函数).csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\obj\Debug\netcoreapp3.1\_方法(函数).dll
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\obj\Debug\netcoreapp3.1\_方法(函数).pdb
+D:\Users\ahuang\Desktop\C#_Code\数组\_方法(函数)\obj\Debug\netcoreapp3.1\_方法(函数).genruntimeconfig.cache

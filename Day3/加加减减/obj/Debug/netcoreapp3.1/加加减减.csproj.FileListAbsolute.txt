@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\bin\Debug\netcoreapp3.1\加加减减.exe
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\bin\Debug\netcoreapp3.1\加加减减.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\bin\Debug\netcoreapp3.1\加加减减.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\bin\Debug\netcoreapp3.1\加加减减.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\bin\Debug\netcoreapp3.1\加加减减.dll
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\bin\Debug\netcoreapp3.1\加加减减.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\obj\Debug\netcoreapp3.1\加加减减.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\obj\Debug\netcoreapp3.1\加加减减.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\obj\Debug\netcoreapp3.1\加加减减.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\obj\Debug\netcoreapp3.1\加加减减.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\obj\Debug\netcoreapp3.1\加加减减.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\obj\Debug\netcoreapp3.1\加加减减.dll
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\obj\Debug\netcoreapp3.1\加加减减.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day3\加加减减\obj\Debug\netcoreapp3.1\加加减减.genruntimeconfig.cache

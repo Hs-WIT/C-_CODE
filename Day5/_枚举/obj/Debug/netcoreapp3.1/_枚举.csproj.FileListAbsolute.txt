@@ -1,0 +1,13 @@
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\bin\Debug\netcoreapp3.1\_枚举.exe
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\bin\Debug\netcoreapp3.1\_枚举.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\bin\Debug\netcoreapp3.1\_枚举.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\bin\Debug\netcoreapp3.1\_枚举.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\bin\Debug\netcoreapp3.1\_枚举.dll
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\bin\Debug\netcoreapp3.1\_枚举.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\obj\Debug\netcoreapp3.1\_枚举.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\obj\Debug\netcoreapp3.1\_枚举.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\obj\Debug\netcoreapp3.1\_枚举.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\obj\Debug\netcoreapp3.1\_枚举.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\obj\Debug\netcoreapp3.1\_枚举.dll
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\obj\Debug\netcoreapp3.1\_枚举.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day5\_枚举\obj\Debug\netcoreapp3.1\_枚举.genruntimeconfig.cache

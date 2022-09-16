@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\bin\Debug\netcoreapp3.1\_用out参数做登录.exe
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\bin\Debug\netcoreapp3.1\_用out参数做登录.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\bin\Debug\netcoreapp3.1\_用out参数做登录.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\bin\Debug\netcoreapp3.1\_用out参数做登录.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\bin\Debug\netcoreapp3.1\_用out参数做登录.dll
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\bin\Debug\netcoreapp3.1\_用out参数做登录.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\obj\Debug\netcoreapp3.1\_用out参数做登录.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\obj\Debug\netcoreapp3.1\_用out参数做登录.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\obj\Debug\netcoreapp3.1\_用out参数做登录.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\obj\Debug\netcoreapp3.1\_用out参数做登录.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\obj\Debug\netcoreapp3.1\_用out参数做登录.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\obj\Debug\netcoreapp3.1\_用out参数做登录.dll
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\obj\Debug\netcoreapp3.1\_用out参数做登录.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day7\_用out参数做登录\obj\Debug\netcoreapp3.1\_用out参数做登录.genruntimeconfig.cache

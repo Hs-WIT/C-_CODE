@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\bin\Debug\netcoreapp3.1\水仙花.exe
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\bin\Debug\netcoreapp3.1\水仙花.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\bin\Debug\netcoreapp3.1\水仙花.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\bin\Debug\netcoreapp3.1\水仙花.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\bin\Debug\netcoreapp3.1\水仙花.dll
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\bin\Debug\netcoreapp3.1\水仙花.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\obj\Debug\netcoreapp3.1\水仙花.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\obj\Debug\netcoreapp3.1\水仙花.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\obj\Debug\netcoreapp3.1\水仙花.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\obj\Debug\netcoreapp3.1\水仙花.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\obj\Debug\netcoreapp3.1\水仙花.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\obj\Debug\netcoreapp3.1\水仙花.dll
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\obj\Debug\netcoreapp3.1\水仙花.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day5\水仙花\obj\Debug\netcoreapp3.1\水仙花.genruntimeconfig.cache

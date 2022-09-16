@@ -1,0 +1,14 @@
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\bin\Debug\netcoreapp3.1\乘法口诀.exe
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\bin\Debug\netcoreapp3.1\乘法口诀.deps.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\bin\Debug\netcoreapp3.1\乘法口诀.runtimeconfig.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\bin\Debug\netcoreapp3.1\乘法口诀.runtimeconfig.dev.json
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\bin\Debug\netcoreapp3.1\乘法口诀.dll
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\bin\Debug\netcoreapp3.1\乘法口诀.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\obj\Debug\netcoreapp3.1\乘法口诀.csproj.AssemblyReference.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\obj\Debug\netcoreapp3.1\乘法口诀.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\obj\Debug\netcoreapp3.1\乘法口诀.AssemblyInfoInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\obj\Debug\netcoreapp3.1\乘法口诀.AssemblyInfo.cs
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\obj\Debug\netcoreapp3.1\乘法口诀.csproj.CoreCompileInputs.cache
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\obj\Debug\netcoreapp3.1\乘法口诀.dll
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\obj\Debug\netcoreapp3.1\乘法口诀.pdb
+D:\Users\ahuang\Desktop\C#_Code\Day5\乘法口诀\obj\Debug\netcoreapp3.1\乘法口诀.genruntimeconfig.cache
